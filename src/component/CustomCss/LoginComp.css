@@ -1,0 +1,42 @@
+.login-page{
+  height: 350px;
+  width:35%;
+  /* height: 0%; */
+  margin: 0 auto;
+  margin: 5% 30% 0% 33%;
+  /* color:  turquoise; */
+  /* background-color: rgba(54, 25, 25, .4); */
+  background-color: rgba(36, 31, 31, 10);
+  
+  border: 1px solid transparent;
+  border-radius: 10px; 
+  /* opacity: 0.7; */
+}
+.login-title{
+  margin: 0 auto;
+  margin-top:5%;
+  color: #ffffff;
+  /* text-align: center; */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2.5em;
+}
+ .form-group{
+  margin: 0 auto;
+  margin-top: 7%;
+}
+
+/* .btn{
+  margin-left: 30%;
+}  */
+.form{
+  margin: 0 auto;
+  height: 95%;
+  color: #ffffff;
+  /* margin-top: 15%; */
+  background-color: rgba(54, 25, 25, .4);
+  
+  /* padding-top: 12%; */
+  /* margin-top: 50%; */
+  width:80%;
+
+}

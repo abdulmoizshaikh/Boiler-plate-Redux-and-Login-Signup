@@ -1,0 +1,37 @@
+.signup-page{
+  height: 450px;
+  width:35%;
+  margin: 0 auto;
+  margin: 5% 30% 0% 33%;
+  background-color: rgba(36, 31, 31, 1);
+  
+  border: 1px solid transparent;
+  border-radius: 10px; 
+}
+.signup-title{
+  margin: 0 auto;
+  margin-top:5%;
+  color: #ffffff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2.5em;
+}
+ .form-group{
+  margin: 0 auto;
+  margin-top: 7%;
+}
+
+.form{
+  margin: 0 auto;
+  color: #ffffff;
+  /* background-color: rgba(54, 25, 25, .4); */
+
+}
+
+
+
+
+
+
+
+
+
